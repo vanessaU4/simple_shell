@@ -1,2 +1,1 @@
-# simple_shell
-ALX SIMPLE SHELL PROJECT
+simple shell
